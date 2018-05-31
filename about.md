@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Epsilon Program - About
+description: All about the Epsilon Program
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -22,6 +22,13 @@ Receiving the benefits of content is a certain something. Be that as it may, it'
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+### Ranks
+0. Blind
+1. Truth Seeker
+2. Truth Accepter
+3. Truth Assumer
+4. Truth Chaser
+5. Truth Bearer
+6. Truth Deliverer
+7. Truth Exerciser
+8. The Truth
