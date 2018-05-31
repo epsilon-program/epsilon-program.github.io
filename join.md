@@ -17,6 +17,7 @@ There are many benefits to joining the Epsilon program, here are a few:
 3. Money
 4. Network of Friendship
 5. Promising Career Path
+6. It's Free!
 
 <h2>Join Form</h2>
    <form method="POST" action="https://formspree.io/{{site.email}}">
