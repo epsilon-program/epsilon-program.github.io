@@ -28,6 +28,8 @@ There are many benefits to joining the Epsilon program, here are a few:
         <label for="email">Phone Number</label>
         <input type="text" name="phone" id="phone" />
       </div>
+    
+    
       <div class="6u 12u$(small)">
           <input type="checkbox" id="demo-copy" name="demo-copy">
           <label for="demo-copy">I have joined the comms channel: ((<a href="url">https://discord.gg/a8FSa3v</a>))</label>
