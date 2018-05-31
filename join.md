@@ -20,6 +20,10 @@ There are many benefits to joining the Epsilon program, here are a few:
 
 <h2>Join Form</h2>
    <form method="POST" action="https://formspree.io/{{site.email}}">
+      <div class="6u 12u$(small)">
+          <input type="checkbox" id="demo-copy" name="demo-copy">
+		  <label for="demo-copy">Have you joined our communication channel?</label>
+      </div>    
       <div class="field">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" />
