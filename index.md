@@ -1,37 +1,21 @@
 ## Welcome to The Epsilon Program
 
-You can use the [editor on GitHub](https://github.com/epsilon-program/epsilon-program.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Epsilon Program. Firstly, you need to begin by asking yourself: Do I want to believe? Do I want an imaginary friend? If yes, then you re ready! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## The 12 Tenets of Kifflom
+1. The world is 157 years old.
+2. Dinosaurs are a lie that people believe because they are weak.
+3. You are happy, you just don't know it.
+4. We all come from the same tree.
+5. Everyone is related to everyone else, except people with red hair.
+6. Sperm does not exist - it is a lie spread by biology teachers - along with everything else you have been told.
+7. Men are supposed to lie with nine new partners a week. Women are supposed to lie with six, except for in July, when they must lie with five men a day.
+8. Aliens exist and are present on earth. If you have a bithmark, you may be descended from Kraff, the famous Emperor of the 4th Paradigm.
+9. Trees talk, but only some people hear them.
+10. People who believe in something live much longer than atheists, and they have eternal life thrown in for good measure.
+11. If you believe this and turn your hands and wallet over to EPSILONISM, you'll live a happy life. Otherwise you are doomed.
+12. KIFFLOM - HAPPINESS IS YOURS! KIFFLOM!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/epsilon-program/epsilon-program.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Testimonials
+<blockquote> "The Epsilon tract helped me give up smack."</blockquote>
