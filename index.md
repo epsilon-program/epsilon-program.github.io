@@ -1,4 +1,4 @@
-## Welcome to The Epsilon Program
+## The Epsilon Program
 
 Welcome to the Epsilon Program. Firstly, you need to begin by asking yourself: Do I want to believe? Do I want an imaginary friend? If yes, then you re ready! 
 
