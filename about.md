@@ -7,6 +7,11 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+## Promotional Video
+<iframe width="420" height="315"
+src="https://youtu.be/LpJXzvrRKT8">
+</iframe>
+
 ## The Goals of Epsilonism
 I. We are making an assault on happiness.
 II. We will be generous, in ways that are upwards and ways that are manifest.
