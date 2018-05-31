@@ -8,8 +8,6 @@ sitemap:
     changefreq: weekly
 ---
 ## The Goals of Epsilonism
-
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 I. We are making an assault on happiness.
 II. We will be generous, in ways that are upwards and ways that are manifest.
 III. We will live by the proven scientific truth of the metaphors.
