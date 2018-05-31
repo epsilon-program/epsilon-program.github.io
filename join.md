@@ -13,10 +13,10 @@ sitemap:
 
 There are many benefits to joining the Epsilon program, here are a few:
 1. Immortality
-2. Godly power
+2. Godly Power
 3. Money
 4. Network of Friendship
-5. The ability to talk to trees
+5. Promising Career Path
 
 <h2>Join Form</h2>
    <form method="POST" action="https://formspree.io/{{site.email}}">
