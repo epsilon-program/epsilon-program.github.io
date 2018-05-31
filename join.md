@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jekyll Theme - Join - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Epsilon - Join
+description: Join the Epsilon Program!
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -15,13 +15,57 @@ Making steady content and conveying it well takes a great deal of research and, 
 
 Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+	<form method="post" action="#" class="alt">
+		<div class="row uniform">
+			<div class="6u 12u$(xsmall)">
+				<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+			</div>
+			<div class="6u$ 12u$(xsmall)">
+				<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+			</div>
+			<!-- Break -->
+			<div class="12u$">
+				<div class="select-wrapper">
+					<select name="demo-category" id="demo-category">
+						<option value="">- Category -</option>
+						<option value="1">Manufacturing</option>
+						<option value="1">Shipping</option>
+						<option value="1">Administration</option>
+						<option value="1">Human Resources</option>
+					</select>
+				</div>
+			</div>
+			<!-- Break -->
+			<div class="4u 12u$(small)">
+				<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+				<label for="demo-priority-low">Low</label>
+			</div>
+			<div class="4u 12u$(small)">
+				<input type="radio" id="demo-priority-normal" name="demo-priority">
+				<label for="demo-priority-normal">Normal</label>
+			</div>
+			<div class="4u$ 12u$(small)">
+				<input type="radio" id="demo-priority-high" name="demo-priority">
+				<label for="demo-priority-high">High</label>
+			</div>
+			<!-- Break -->
+			<div class="6u 12u$(small)">
+				<input type="checkbox" id="demo-copy" name="demo-copy">
+				<label for="demo-copy">Email me a copy</label>
+			</div>
+			<div class="6u$ 12u$(small)">
+				<input type="checkbox" id="demo-human" name="demo-human" checked>
+				<label for="demo-human">I am a human</label>
+			</div>
+			<!-- Break -->
+			<div class="12u$">
+				<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+			</div>
+			<!-- Break -->
+			<div class="12u$">
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="reset" value="Reset" /></li>
+				</ul>
+			</div>
+		</di
