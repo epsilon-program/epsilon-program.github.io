@@ -7,18 +7,31 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## The Goals of Epsilonism
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+I. We are making an assault on happiness.
+II. We will be generous, in ways that are upwards and ways that are manifest.
+III. We will live by the proven scientific truth of the metaphors.
+IV. We will fight superstition, limited thinking and dogma wherever we find it.
+V. We will be clear thinking, independent minded and do exactly what we are told.
+VI. We will practice science by not doubting.
+VII. We will display infinite power by closing out those with doubt with our life choices.
+VIII. We will practice kindness and mercy by a relentless assault on insavables, always reminding them of what awaits.
+IX. We will be everywhere, all at once, but also right here, right now.
+X. We will invest in a structured study program, because we know that knowledge is not free.
+XI. We will be open minded to new experiences apart from those that are wrong, insavable, or against teachings.
+XII. We will promote epsilonism in everything we do, while we await both the writing of the tract and the ending of the 9th paradigm.
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
-
-## Content is Imortant
+## The Epsilon Pledge
 <div class="box">
   <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
+  All good things come from Kraff, that is the fact on which Epsilonism is built.
+
+Epsilonism is a science as well as a Religion - in fact, we are the only religion that is also a science and which is concerned with seeking the truth.
+
+As real truth seekers, we are willing to pay to make the search go better. In this way we are investing in our future.
   </p>
 </div>
 
