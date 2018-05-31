@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Epsilon - Join
+title: The Epsilon Program - Join
 description: Join the Epsilon Program!
 sitemap:
     priority: 0.7
