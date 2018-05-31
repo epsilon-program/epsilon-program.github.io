@@ -19,3 +19,10 @@ Welcome to the Epsilon Program. Firstly, you need to begin by asking yourself: D
 
 ## Testimonials
 <blockquote> "The Epsilon tract helped me give up smack."</blockquote>
+- Jezz Torrent
+
+<blockquote> "Kifflom changed my life.  I used to have a well paid job, a family and good prospects.  Now, I've given that up to find real meaning in wearing light blue and proclaiming my real religion. Kifflom!"</blockquote>
+- Jonas Ackerman, Blueberry, San Andreas
+
+<blockquote> "Religion never worked for me, until now!"</blockquote>
+- Brian Van Ginsberg, Carcer City
