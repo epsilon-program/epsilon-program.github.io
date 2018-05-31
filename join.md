@@ -32,7 +32,7 @@ There are many benefits to joining the Epsilon program, here are a few:
     
       <div class="6u 12u$(small)">
           <input type="checkbox" id="demo-copy" name="demo-copy">
-          <label for="demo-copy">I have joined the comms channel: ((<a href="url">https://discord.gg/a8FSa3v</a>))</label>
+          <label for="demo-copy">I have joined the comms channel: ((<a href="https://discord.gg/a8FSa3v">http://epsilonprogram.tk/comms/</a>))</label>
       </div>    
       <ul class="actions">
         <li><input type="submit" value="Join Epsilon!" /></li>
