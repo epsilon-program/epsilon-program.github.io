@@ -35,7 +35,7 @@ sitemap:
 			</tr>
 			<tr>
 				<td>Section 3</td>
-				<td>Belief System</td>
+				<td>Belief System & Lore</td>
 				<td><a href="https://www.google.com">View</a></td>
 			</tr>
 		</tbody>
