@@ -7,42 +7,50 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Promotional Video
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LpJXzvrRKT8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+## Handbook Sections
+	<h3>Default</h3>
+	<div class="table-wrapper">
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Description</th>
+					<th>Price</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Item 1</td>
+					<td>This item costs money.</td>
+					<td>29.99</td>
+				</tr>
+				<tr>
+					<td>Item 2</td>
+					<td>And this one is not free either.</td>
+					<td>19.99</td>
+				</tr>
+				<tr>
+					<td>Item 3</td>
+					<td>Here we have another item.</td>
+					<td>29.99</td>
+				</tr>
+				<tr>
+					<td>Item 4</td>
+					<td>More items and stuff.</td>
+					<td>19.99</td>
+				</tr>
+				<tr>
+					<td>Item 5</td>
+					<td>The last item and stuff.</td>
+					<td>29.99</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="2"></td>
+					<td>100.00</td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
 
-## The Goals of Epsilonism
-I. We are making an assault on happiness.
-II. We will be generous, in ways that are upwards and ways that are manifest.
-III. We will live by the proven scientific truth of the metaphors.
-IV. We will fight superstition, limited thinking and dogma wherever we find it.
-V. We will be clear thinking, independent minded and do exactly what we are told.
-VI. We will practice science by not doubting.
-VII. We will display infinite power by closing out those with doubt with our life choices.
-VIII. We will practice kindness and mercy by a relentless assault on insavables, always reminding them of what awaits.
-IX. We will be everywhere, all at once, but also right here, right now.
-X. We will invest in a structured study program, because we know that knowledge is not free.
-XI. We will be open minded to new experiences apart from those that are wrong, insavable, or against teachings.
-XII. We will promote epsilonism in everything we do, while we await both the writing of the tract and the ending of the 9th paradigm.
-
-
-## The Epsilon Pledge
-<div class="box">
-  <p>
-  All good things come from Kraff, that is the fact on which Epsilonism is built.
-
-Epsilonism is a science as well as a Religion - in fact, we are the only religion that is also a science and which is concerned with seeking the truth.
-
-As real truth seekers, we are willing to pay to make the search go better. In this way we are investing in our future.
-  </p>
-</div>
-
-## Career Progression
-0. Blind
-1. Truth Seeker
-2. Truth Accepter
-3. Truth Assumer
-4. Truth Chaser
-5. Truth Bearer
-6. Truth Deliverer
-7. Truth Exerciser
-8. The Truth
