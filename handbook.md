@@ -19,8 +19,8 @@ sitemap:
 		</thead>
 		<tbody>
 			<tr>
-				<td>Section 1</td>
-				<td>Basic Guidelines</td>
+				<td>Section 0</td>
+				<td>Basic Guidelines ((OOC))</td>
 				<td><a href="https://www.google.com">View</a></td>
 			</tr>
 			<tr>
@@ -29,8 +29,8 @@ sitemap:
 				<td>19.99</td>
 			</tr>
 			<tr>
-				<td>Item 3</td>
-				<td>Here we have another item.</td>
+				<td>Section 3</td>
+				<td>Code of Conduct</td>
 				<td>29.99</td>
 			</tr>
 			<tr>
