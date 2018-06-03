@@ -8,7 +8,6 @@ sitemap:
     changefreq: weekly
 ---
 ## Handbook Sections
-<h3>Default</h3>
 <div class="table-wrapper">
 	<table>
 		<thead>
