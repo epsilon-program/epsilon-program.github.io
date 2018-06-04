@@ -124,11 +124,14 @@ The highest ranking members in that department who is available.
 
 ### Examples
 Father: FATHER to OPS, need security at Epsilon HQ.
+<br>
 OPS: OPS to FATHER, enroute.
 
 ### Types
 **Radio ((/r & Radio VOIP))**
+<br>
 This is used to communicate between members in the field.
 <br>
 **((OOC Radio /f))**
+<br>
 This is ued for OOC communication between members in the field.
