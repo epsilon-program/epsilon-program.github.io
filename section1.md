@@ -96,7 +96,7 @@ sitemap:
 				<td>Truth Chaser (4)</td>
 				<td>Department Head. Leads a department.</td>
 				<td>Given Department to Run.</td>
-				<td>Lead the department well.</td>
+				<td>Lead the department well. Write a parable in The Book of Kifflom.</td>
 			</tr>
 			<tr>
 				<td>Truth Bearer (5)</td>
