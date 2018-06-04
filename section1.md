@@ -69,29 +69,34 @@ sitemap:
 				<td><a href="/section0">Complete Initiation Ceremony.</a></td>
 			</tr>
 			<tr>
+				<td>Follower (0)</td>
+				<td>A member of the public who follows the religion but is not part of the faction. <td>
+				<td>Complete Initiation Ceremony.</td>
+			</tr>
+			<tr>
 				<td>Truth Seeker (1)</td>
 				<td>Initiate. A someone who wants to become a full member. Referred to as Initiate {NUM}</td>
-				<td><a href="/section1">Recruit 1 Member or Follower. Complete Desert Quest.</a></td>
+				<td>Recruit 1 Member or Follower. Complete Desert Quest.</td>
 			</tr>
 			<tr>
 				<td>Truth Accepter (2)</td>
 				<td>A formal member. Referred to as Brother {VISION NAME}.</td>
-				<td><a href="/section2">Complete 1 Story Board. Give a large donation to the treasury.</a></td>
+				<td>Complete 1 Story Board. Give a large donation to the treasury.</td>
 			</tr>
 			<tr>
 				<td>Truth Assumer (4)</td>
 				<td>A senior member.</td>
-				<td><a href="/section3">Be suitable for Leadership. Complete Wilderness Quest.</a></td>
+				<td>Be suitable for Leadership. Complete Wilderness Quest.</td>
 			</tr>
 			<tr>
 				<td>Truth Chaser (5)</td>
 				<td>Department Head. Leads a department.</td>
-				<td><a href="/section3">Lead the department well.</a></td>
+				<td>Lead the department well.</td>
 			</tr>
 			<tr>
 				<td>Truth Chaser (5)</td>
 				<td>A senior department head.</td>
-				<td><a href="/section3">Be suitable for committee. Give a large donation to treasury.</a></td>
+				<td>Be suitable for committee. Give a large donation to treasury.</td>
 			</tr>
 			<tr>
 				<td>Truth Deliverer (6)</td>
