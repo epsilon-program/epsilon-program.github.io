@@ -47,6 +47,7 @@ sitemap:
 2. You must maintain a high standard of roleplay at all times.
 3. Every member is to roleplay a form of submission to 'The Father' and to 'Kraff.'
 4. You are expected to stray away from pretty crimes unless notified by, 'The Father.'
+5. We advise your character remains oddly happy at all times for added creepiness.
 
 ## 2. Faction Rules
 1. The only way to leave the faction is through a CK.
