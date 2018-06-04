@@ -20,8 +20,8 @@ sitemap:
 		<tbody>
 			<tr>
 				<td>The Book of Kifflom</td>
-				<td>$9.99 ((OOC))</td>
-				<td><a href="#" class="button">Buy</a></td>
+				<td>$9.99</td>
+				<td><a href="https://docs.google.com/document/d/1YEsNlpNSiBtz_KLnVm1x_yShn-VeSdvLTSBXLdV_Ra4/" class="button">Buy</a></td>
 			</tr>
 		</tbody>
 	</table>
