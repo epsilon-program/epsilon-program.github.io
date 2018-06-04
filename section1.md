@@ -65,22 +65,47 @@ Finance: Promotions & Subscriptions.
 		</thead>
 		<tbody>
 			<tr>
-				<td>Section 0</td>
+				<td>Blind (0)</td>
 				<td>Basic Guidelines ((OOC))</td>
 				<td><a href="/section0">View</a></td>
 			</tr>
 			<tr>
-				<td>Section 1</td>
+				<td>Truth Seeker (1)</td>
 				<td>Epsilon Program Structure</td>
 				<td><a href="/section1">View</a></td>
 			</tr>
 			<tr>
-				<td>Section 2</td>
+				<td>Truth Accepter (2)</td>
 				<td>Code of Conduct</td>
 				<td><a href="/section2">View</a></td>
 			</tr>
 			<tr>
-				<td>Section 3</td>
+				<td>Truth Assumer (4)</td>
+				<td>Belief System & Lore</td>
+				<td><a href="/section3">View</a></td>
+			</tr>
+			<tr>
+				<td>Truth Chaser (5)</td>
+				<td>Belief System & Lore</td>
+				<td><a href="/section3">View</a></td>
+			</tr>
+			<tr>
+				<td>Truth Chaser (5)</td>
+				<td>Belief System & Lore</td>
+				<td><a href="/section3">View</a></td>
+			</tr>
+			<tr>
+				<td>Truth Deliverer (6)</td>
+				<td>Belief System & Lore</td>
+				<td><a href="/section3">View</a></td>
+			</tr>
+			<tr>
+				<td>Truth Exerciser (7)</td>
+				<td>Belief System & Lore</td>
+				<td><a href="/section3">View</a></td>
+			</tr>
+			<tr>
+				<td>The Truth (9)</td>
 				<td>Belief System & Lore</td>
 				<td><a href="/section3">View</a></td>
 			</tr>
