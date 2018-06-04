@@ -43,7 +43,14 @@ sitemap:
 </div>
 
 ## 1. Uniform
-<img="https://media.discordapp.net/attachments/452931186407374868/452940068965842945/unknown.png">
+Top (( 32 (2) ))
+<img src="https://media.discordapp.net/attachments/452931186407374868/452940068965842945/unknown.png">
+
+Bottoms (( 3 (15) ))
+<img src="https://media.discordapp.net/attachments/452931186407374868/452940986797129745/unknown.png">
+
+Feet (( 14 (1) ))
+<img src="https://media.discordapp.net/attachments/452931186407374868/452941492110098432/unknown.png">
 
 Code of Conduct
 1. Uniform
