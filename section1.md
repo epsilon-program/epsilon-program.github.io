@@ -87,19 +87,19 @@ sitemap:
 				<td>Complete 1 Story Board. Give a large donation to the treasury.</td>				
 			</tr>
 			<tr>
-				<td>Truth Assumer (4)</td>
+				<td>Truth Assumer (3)</td>
 				<td>A senior member.</td>
 				<td>Meditation with The Father.</td>
 				<td>Be suitable for Leadership. Complete Wilderness Quest.</td>
 			</tr>
 			<tr>
-				<td>Truth Chaser (5)</td>
+				<td>Truth Chaser (4)</td>
 				<td>Department Head. Leads a department.</td>
 				<td>Given Department to Run.</td>
 				<td>Lead the department well.</td>
 			</tr>
 			<tr>
-				<td>Truth Chaser (5)</td>
+				<td>Truth Bearer (5)</td>
 				<td>A senior department head.</td>
 				<td>The Truth is Revealed.</td>
 				<td>Be suitable for committee. Give a large donation to treasury.</td>
