@@ -85,7 +85,7 @@ sitemap:
 			</tr>
 			<tr>
 				<td>Follower (0)</td>
-				<td>A member follows the religion but is not part of the faction. <td>
+				<td>A member follows the religion but is not part of the faction. </td>
 				<td>Complete Initiation Ceremony.</td>
 			</tr>
 			<tr>
