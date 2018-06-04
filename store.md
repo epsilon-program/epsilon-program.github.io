@@ -8,8 +8,6 @@ sitemap:
     changefreq: weekly
 ---
 
-<li class="{% if page.url contains '/store/#' %} active {% endif %}"><a href="{{ "/join/" | absolute_url }}">dsffsd</a></li>
-
 ## Store
 <div class="table-wrapper">
 	<table>
