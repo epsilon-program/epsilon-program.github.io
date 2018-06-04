@@ -135,3 +135,6 @@ This is used to communicate between members in the field.
 **((OOC Radio /f))**
 <br>
 This is ued for OOC communication between members in the field.
+
+### ((Metagaming))
+It is very important that you do not mix OOC information with IC information.
