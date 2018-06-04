@@ -68,6 +68,8 @@ For your protection. Ensure you have a gun license.
 **Radio**<br>
 For communication with other Epsilon members.
 
+**The Book of Kifflom**<br>
+The Book of Kifflom.
 
 **Notepad and Pen**
 For taking notes and noting religious thoughts.
