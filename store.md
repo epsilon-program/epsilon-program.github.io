@@ -7,7 +7,10 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Handbook Sections
+
+<li class="{% if page.url contains '/store/#' %} active {% endif %}"><a href="{{ "/join/" | absolute_url }}">dsffsd</a></li>
+
+## Store
 <div class="table-wrapper">
 	<table>
 		<thead>
