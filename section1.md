@@ -126,7 +126,15 @@ sitemap:
 	</table>
 </div>
 
-## 3. Locations
+## 5. Story Boards
+Thread: https://forum.eclipse-rp.net/topic/7221-the-epsilon-program/
+Example: https://forum.eclipse-rp.net/uploadsnew/monthly_2018_06/First.thumb.png.a5cffe0f43f8ba9572befa17e1349c3f.png
+Template URL: https://mega.nz/#!BmpFHKJC!4CrLCZFV56I6VUfnqa30SSazU7uTd9pNRMGtlfmDIr4
+
+# I Don't Have Photoshop
+If you don't have Photoshop, feel free to simply write up a text based story ICly in the thread.
+
+## 4. Locations
 Spiritual Centre
 <br>
 <img src="https://media.discordapp.net/attachments/451867404755009537/452330887665680384/unknown.png">
