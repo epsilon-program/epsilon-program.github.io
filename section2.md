@@ -57,12 +57,18 @@ Feet (( 14 (1) ))
 
 ## 2. Equipment
 ### On Your Person
-1. Epsilon Handbook
-2. A Handgun
-3. Radio
-4. Notepad and Pen
-5. 2 Magazines
-6. Epsilon Membership ID
+####Epsilon Handbook
+This book.
+
+####A Handgun
+For your protection. Ensure you have a gun license.
+
+####Radio
+
+
+Notepad and Pen
+2 Magazines
+Epsilon Membership ID
 
 ## In Your Vehicle
 1. First Aid Kit
