@@ -128,10 +128,13 @@ sitemap:
 
 ## 3. Locations
 Spiritual Centre
+<br>
 <img src="https://media.discordapp.net/attachments/451867404755009537/452330887665680384/unknown.png">
 
 Epsilon HQ
+<br>
 <img src="https://media.discordapp.net/attachments/451867404755009537/452957783529226266/unknown.png">
 
 Cave 1
+<br>
 <img src="https://media.discordapp.net/attachments/451860567729373205/452682901721448459/unknown.png?width=953&height=537">
