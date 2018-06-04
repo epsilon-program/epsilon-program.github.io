@@ -129,7 +129,7 @@ sitemap:
 ## 5. Story Boards
 Thread: https://forum.eclipse-rp.net/topic/7221-the-epsilon-program/
 <br>
-Example: https://forum.eclipse-rp.net/uploadsnew/monthly_2018_06/First.thumb.png.a5cffe0f43f8ba9572befa17e1349c3f.png
+Example:https://forum.eclipse-rp.net/uploadsnew/monthly_2018_06/First.thumb.png.a5cffe0f43f8ba9572befa17e1349c3f.png
 <br>
 Template URL: https://mega.nz/#!BmpFHKJC!4CrLCZFV56I6VUfnqa30SSazU7uTd9pNRMGtlfmDIr4
 
