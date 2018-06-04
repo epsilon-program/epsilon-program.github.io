@@ -58,7 +58,10 @@ ALL PRAISE BE TO KRAFF!
 
 ## 3. Quests
 ### The Vision Quest
-The initiate must
+The initiate must journey into the desert in search of their past life. They must walk for miles, finding a place to sit and meditate. The initiate may only return once they have found their true name.
+
+((Please take screenshots of your journey. Post the screenshot, your true name and a short description of your past life in the thread on the forums.))
 
 ### The Wilderness Quest
-The member must
+The member must journey deep into the wilderness around Mount Chilliad and meditate there for 7 days and 7 nights.
+((Take the most beautiful screenshot of your meditation possible, post it in the thread on the forums.))
