@@ -133,7 +133,7 @@ Example: https://forum.eclipse-rp.net/uploadsnew/monthly_2018_06/First.thumb.png
 <br>
 Template URL: https://mega.nz/#!BmpFHKJC!4CrLCZFV56I6VUfnqa30SSazU7uTd9pNRMGtlfmDIr4
 
-# I Don't Have Photoshop
+### I Don't Have Photoshop
 If you don't have Photoshop, feel free to simply write up a text based story ICly in the thread.
 
 ## 4. Locations
