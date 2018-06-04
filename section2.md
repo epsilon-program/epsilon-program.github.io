@@ -58,22 +58,35 @@ Feet (( 14 (1) ))
 ## 2. Equipment
 ### On Your Person
 **Epsilon Handbook**
+<br>
 This book.
 
 **A Handgun**
+<br>
 For your protection. Ensure you have a gun license.
 
-####Radio
+**Radio**<br>
+For communication with other Epsilon members.
 
 
-Notepad and Pen
-2 Magazines
-Epsilon Membership ID
+**Notepad and Pen**
+For taking notes and noting religious thoughts.
+
+**2 Magazines**
+For your handgun.
+
+**Epsilon Membership ID**
+To identify yourself as a member of the Epsilon Program. Contains your Epsilon Name.
 
 ## In Your Vehicle
-1. First Aid Kit
-2. Epsilon Business Cards, containing the Epsilon Website
-3. Leaflets & Flyers
+**First Aid Kit**
+Contains basic medical equipment.
+
+**Epsilon Business Cards**
+Contains the Epsilon Website
+
+**Leaflets & Flyers**
+Contains a short description of Epsilonism and the Epsilon website.
 
 ## 3. Vehicles
 Washington
@@ -92,7 +105,4 @@ Mesa (Needs Permission from Father)
 <br>
 <img src="https://media.discordapp.net/attachments/452931186407374868/452937875278004224/8.png">
 
-1. Uniform
-2. Equipment
-3. Vehicles
-4. Radio & Communication
+## 4. Radio Protocol
