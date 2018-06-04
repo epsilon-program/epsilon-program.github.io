@@ -127,11 +127,11 @@ sitemap:
 </div>
 
 ## 5. Story Boards
-Thread: https://forum.eclipse-rp.net/topic/7221-the-epsilon-program/
+Thread: <a href="https://forum.eclipse-rp.net/topic/7221-the-epsilon-program/">View</a>
 <br>
-Example:https://forum.eclipse-rp.net/uploadsnew/monthly_2018_06/First.thumb.png.a5cffe0f43f8ba9572befa17e1349c3f.png
+Example: <a href="https://forum.eclipse-rp.net/uploadsnew/monthly_2018_06/First.thumb.png.a5cffe0f43f8ba9572befa17e1349c3f.png">View</a>
 <br>
-Template URL: https://mega.nz/#!BmpFHKJC!4CrLCZFV56I6VUfnqa30SSazU7uTd9pNRMGtlfmDIr4
+Template URL: <a href="https://mega.nz/#!BmpFHKJC!4CrLCZFV56I6VUfnqa30SSazU7uTd9pNRMGtlfmDIr4">Download</a>
 
 ### I Don't Have Photoshop
 If you don't have Photoshop, feel free to simply write up a text based story ICly in the thread.
