@@ -26,17 +26,17 @@ sitemap:
 			<tr>
 				<td>Section 1</td>
 				<td>Epsilon Program Structure</td>
-				<td><a href="https://www.google.com">View</a></td>
+				<td><a href="/section1">View</a></td>
 			</tr>
 			<tr>
 				<td>Section 2</td>
 				<td>Code of Conduct</td>
-				<td><a href="https://www.google.com">View</a></td>
+				<td><a href="/section2">View</a></td>
 			</tr>
 			<tr>
 				<td>Section 3</td>
 				<td>Belief System & Lore</td>
-				<td><a href="https://www.google.com">View</a></td>
+				<td><a href="/section3">View</a></td>
 			</tr>
 		</tbody>
 	</table>
