@@ -57,9 +57,6 @@ sitemap:
 	</table>
 </div>
 
-## Promotional Video
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LpJXzvrRKT8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
-
 ## 1. Departments
 1. Production: Arms & Medicine.
 2. Human Resources: Recruits & Tracks Members.
