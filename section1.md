@@ -74,6 +74,7 @@ sitemap:
 			<tr>
 				<th>Title</th>
 				<th>Description</th>
+				<th>Rewards</th>
 				<th>Promotion Requirements</th>
 			</tr>
 		</thead>
