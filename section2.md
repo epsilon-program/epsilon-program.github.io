@@ -42,6 +42,8 @@ sitemap:
 	</table>
 </div>
 
+## 1. Uniform
+<img="https://media.discordapp.net/attachments/452931186407374868/452940068965842945/unknown.png">
 
 Code of Conduct
 1. Uniform
