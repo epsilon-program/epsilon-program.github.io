@@ -66,7 +66,7 @@ sitemap:
 			<tr>
 				<td>Blind (0)</td>
 				<td>An uninitiated member of the public.</td>
-				<td><a href="/section0">Complete Initiation Ceremony.</a></td>
+				<td>Complete Initiation Ceremony.</td>
 			</tr>
 			<tr>
 				<td>Follower (0)</td>
