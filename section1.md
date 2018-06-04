@@ -100,7 +100,7 @@ sitemap:
 			<tr>
 				<td>Truth Accepter (2)</td>
 				<td>A formal member. Referred to as Brother {VISION NAME}.</td>
-				<td>Past Life & Name is Revealed.</td>
+				<td>Past Life & Name is Revealed. Taught Astral Projection.</td>
 				<td>Complete 1 Story Board. Give a large donation to the treasury.</td>				
 			</tr>
 			<tr>
@@ -136,6 +136,7 @@ sitemap:
 			<tr>
 				<td>The Truth (9)</td>
 				<td>The eternal leader, Jesus. Referred to as Father.</td>
+				<td></td>
 				<td></td>
 			</tr>
 		</tbody>
