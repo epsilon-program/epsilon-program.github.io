@@ -21,7 +21,7 @@ sitemap:
 			<tr>
 				<td>Section 0</td>
 				<td>Basic Guidelines ((OOC))</td>
-				<td><a href="https://www.google.com">View</a></td>
+				<td><a href="/section0">View</a></td>
 			</tr>
 			<tr>
 				<td>Section 1</td>
