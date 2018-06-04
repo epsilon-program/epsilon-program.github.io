@@ -19,21 +19,6 @@ sitemap:
 		</thead>
 		<tbody>
 			<tr>
-				<td>Blind (0)</td>
-				<td>An uninitiated member of the public.</td>
-				<td>Complete Initiation Ceremony.</td>
-			</tr>
-			<tr>
-				<td>Follower (0)</td>
-				<td>A member follows the religion but is not part of the faction. <td>
-				<td>Complete Initiation Ceremony.</td>
-			</tr>
-			<tr>
-				<td>Truth Seeker (1)</td>
-				<td>Initiate. A someone who wants to become a full member. Referred to as Initiate {NUM}</td>
-				<td>Recruit 1 Member or Follower. Complete Desert Quest.</td>
-			</tr>
-			<tr>
 				<td>Section 0</td>
 				<td>Basic Guidelines ((OOC))</td>
 				<td><a href="/section0">View</a></td>
@@ -56,6 +41,7 @@ sitemap:
 		</tbody>
 	</table>
 </div>
+
 
 ## 1. Departments
 1. Production: Arms & Medicine.
