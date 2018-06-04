@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Epsilon Program - Handbook Section 0
+title: Epsilon Program - Handbook Section 2
 description: All about the Epsilon Program
 sitemap:
     priority: 0.7
@@ -106,3 +106,24 @@ Mesa (Needs Permission from Father)
 <img src="https://media.discordapp.net/attachments/452931186407374868/452937875278004224/8.png">
 
 ## 4. Radio Protocol
+### Callsigns
+**FATHER**: The Father.
+**HR**: Human Resources.
+**OPS**: Operations.
+**PROD**: Production.
+**LOGS**: Logistics.
+**FIN**: Finance.
+
+### Who Responds?
+The highest ranking members in that department who is available. 
+
+### Examples
+Father: FATHER to OPS, need security at Epsilon HQ.
+OPS: OPS to FATHER, enroute.
+
+### Types
+**Radio ((/r & Radio VOIP))**
+This is used to communicate between members in the field.
+<br>
+**((OOC Radio /f))**
+This is ued for OOC communication between members in the field.
