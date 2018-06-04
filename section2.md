@@ -44,15 +44,48 @@ sitemap:
 
 ## 1. Uniform
 Top (( 32 (2) ))
+<br>
 <img src="https://media.discordapp.net/attachments/452931186407374868/452940068965842945/unknown.png">
 
 Bottoms (( 3 (15) ))
+<br>
 <img src="https://media.discordapp.net/attachments/452931186407374868/452940986797129745/unknown.png">
 
 Feet (( 14 (1) ))
+<br>
 <img src="https://media.discordapp.net/attachments/452931186407374868/452941492110098432/unknown.png">
 
-Code of Conduct
+## 2. Equipment
+### On Your Person
+1. Epsilon Handbook
+2. A Handgun
+3. Radio
+4. Notepad and Pen
+5. 2 Magazines
+6. Epsilon Membership ID
+
+## In Your Vehicle
+1. First Aid Kit
+2. Epsilon Business Cards, containing the Epsilon Website
+3. Leaflets & Flyers
+
+## 3. Vehicles
+Washington
+<br>
+<img src="https://media.discordapp.net/attachments/452931186407374868/452937326474166294/14_washington.png">
+
+Jackal (Level 5+)
+<br>
+<img src="https://media.discordapp.net/attachments/452931186407374868/452937657845284875/7_jackal.png">
+
+Youga (Used by Transporters)
+<br>
+<img src="https://media.discordapp.net/attachments/452931186407374868/452937763793141761/7.png">
+
+Mesa (Needs Permission from Father)
+<br>
+<img src="https://media.discordapp.net/attachments/452931186407374868/452937875278004224/8.png">
+
 1. Uniform
 2. Equipment
 3. Vehicles
