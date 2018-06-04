@@ -14,7 +14,7 @@ sitemap:
 			<tr>
 				<th>Name</th>
 				<th>Description</th>
-				<th>Price</th>
+				<th>Link</th>
 			</tr>
 		</thead>
 		<tbody>
