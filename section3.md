@@ -42,10 +42,23 @@ sitemap:
 	</table>
 </div>
 
-Lore
-1. Goals of Epsilon
-2. Quests
-2. The 12 Tenets of Kifflom
-3. The Epsilonist Pledge
-4. A History of Epsilon
-5. Lore & History
+## 1. The Book of Kifflom
+<a href="https://docs.google.com/document/d/1YEsNlpNSiBtz_KLnVm1x_yShn-VeSdvLTSBXLdV_Ra4/" class="button">View</a>
+
+## 2. The Pledge
+All good things come from Kraff, that is the fact on which Epsilonism is built.
+<br>
+Epsilonism is a science as well as a Religion - in fact, we are the only religion that is also a science and which is concerned with seeking the truth.
+<br>
+As real truth seekers, we are willing to pay to make the search go better. In this way we are investing in our future.
+<br>
+Kraff within us, Kraff's will be done.
+<br>
+ALL PRAISE BE TO KRAFF!
+
+## 3. Quests
+### The Vision Quest
+The initiate must
+
+### The Wilderness Quest
+The member must
