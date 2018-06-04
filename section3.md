@@ -63,5 +63,5 @@ The initiate must journey into the desert in search of their past life. They mus
 ((Please take screenshots of your journey. Post the screenshot, your true name and a short description of your past life in the thread on the forums.))
 
 ### The Wilderness Quest
-The member must journey deep into the wilderness around Mount Chilliad and meditate there for 7 days and 7 nights.
+The member must journey deep into the wilderness around Mount Chilliad and meditate there for 7 days and 7 nights.<br>
 ((Take the most beautiful screenshot of your meditation possible, post it in the thread on the forums.))
