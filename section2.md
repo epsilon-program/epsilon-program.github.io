@@ -57,10 +57,10 @@ Feet (( 14 (1) ))
 
 ## 2. Equipment
 ### On Your Person
-####Epsilon Handbook
+**Epsilon Handbook**
 This book.
 
-####A Handgun
+**A Handgun**
 For your protection. Ensure you have a gun license.
 
 ####Radio
